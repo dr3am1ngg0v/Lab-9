@@ -1,0 +1,11 @@
+2022-12-07 01:53:39,344 - INFO - User has entered an array border: 7
+2022-12-07 01:53:42,305 - INFO - User has entered an number of attempts: 3
+2022-12-07 01:53:42,305 - INFO - Generated number: 5
+2022-12-07 01:53:49,050 - INFO - User did guess the number.
+2022-12-07 01:53:49,050 - INFO - Program finished
+2022-12-07 01:54:33,397 - INFO - User has entered an array border: 10
+2022-12-07 01:54:35,046 - INFO - User has entered an number of attempts: 5
+2022-12-07 01:54:35,046 - INFO - Generated number: 1
+2022-12-07 01:54:36,096 - INFO - User has entered a bigger number than the hidden.
+2022-12-07 01:54:38,051 - INFO - User did guess the number.
+2022-12-07 01:54:38,051 - INFO - Program finished
